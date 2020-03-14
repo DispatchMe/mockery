@@ -1,4 +1,4 @@
-module github.com/vektra/mockery
+module github.com/DispatchMe/mockery
 
 go 1.14
 
